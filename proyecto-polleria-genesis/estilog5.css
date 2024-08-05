@@ -1,0 +1,136 @@
+/* * {
+    margin: 0;
+    padding: 0;
+  }
+  header {
+    background-color: #472D48;
+    color: #fff;
+    padding: 1px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .nav-ul {
+    list-style: none;
+    display: flex;
+    padding: 30px;
+  }
+  .nav-li {
+    margin-right: 20px;
+  }
+  .a {
+    text-decoration: none;
+    color: #F68961;
+    font-size: 22px;
+    font-weight: bold;
+  }
+  header a:hover{
+    color: #FABBA5;
+  } */
+  aside {
+    float: right;
+    padding: 2px;
+    margin-right: 2px;
+  }
+  body {
+    background-color: #FEEEE8;
+  }
+
+  .card {
+    width: 700px;
+    padding: 100px;
+    background-color: #6f4e7c;
+    color: white;
+    border: 2px solid #6f4e7c;
+    box-sizing: border-box;
+    margin-left: 30%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+  }
+  .card h1 {
+    font-size: 44px;
+    margin-bottom: 40px;
+  }
+  .card .section {
+    margin-bottom: 20px;
+  }
+  .card .section span {
+    color: #ff6f3c;
+  }
+  /* .logo {
+    text-align: right;
+    text-align: left;
+  }
+  .logo img {
+    width: 280px;
+  } */
+  .socials a {
+    text-decoration: none;
+    color: white;
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+  }
+  .socials img {
+    width: 20px;
+    margin-right: 10px;
+  }
+  .socials div {
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+
+footer {
+  background-color: #472D48;
+  font-size: 22px;
+  padding: 50px;
+  border-image: none;
+  border-style: none;
+}
+
+footer a {
+  color: #fff;
+  font-weight: normal;
+  background-color: #472D48;
+  border-image: none;
+  border-style: none;
+  text-decoration: none;
+}
+
+footer p {
+  color:#FABBA5;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+footer ul {
+  list-style: none;
+  background-color: #472D48;
+  border-image: none;
+  border-style: none;
+  color: #fff;
+}
+
+.float {
+  display: flex;
+  justify-content: center;
+  float:inherit;
+}
+
+.float1 {
+  justify-content: center;
+  float:inline-start;
+}
+
+/* .logo {
+  float: initial;
+  margin-top: 40px;
+  margin-bottom: 5px;
+} */
+
+/* .icons {
+  margin-top: 80px;
+  margin-bottom: 5px;
+}
+ */
